@@ -1,12 +1,11 @@
-#Halenow#
+# Halenow #
 
 This project is a queue managment system for John Hale written in Tornado. This uses either Twilio, or textbelt to send text messages.
 
 ## Getting this repo ##
 ```bash
-git clone git@github.com:gb1035/halenow.git
-git checkout tornado
-exit
+cd /var/www/
+git clone git@github.com:gb1035/halenow_sanitized.git
 ```
 
 ## Install Requirements ##
